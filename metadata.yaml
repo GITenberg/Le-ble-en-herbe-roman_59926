@@ -1,0 +1,33 @@
+_repo: Le-ble-en-herbe-roman_59926
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colette
+    aliases:
+    - Jouvenel, Gabrielle Claudine Colette de
+    - Gauthier-Villars, Henry, Mme
+    - Willy, Colette
+    - Colette, Sidonie Gabrielle
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '2065'
+    url: http://www.gutenberg.org/2009/agents/2065
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Colette
+    - https://en.wikipedia.org/wiki/Colette
+description: ''
+gutenberg_issued: '2019-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59926'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+- !lcsh 'France -- Fiction'
+- GITenberg
+title: 'Le blé en herbe: roman'
+url: http://www.gutenberg.org/ebooks/59926
